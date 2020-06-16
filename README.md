@@ -1,7 +1,5 @@
 # Road Traffic capacity counting example based on OpenCV
 
-You can read article for this code [here](https://hackernoon.com/tutorial-counting-road-traffic-capacity-with-opencv-998580f1fbde)
-
 ### Visualization demo
 ![Example](intro.png)
 
@@ -47,12 +45,3 @@ chmod a+x make_video.sh
 ```
 python plot.py [path to the csv report] [number of seconds to group by] 
 ```
-## Subscribe to our Machine Learning blog
-[Blog](https://medium.com/machine-learning-world)
-[Telegram channel](https://t.me/ml_world)
-
-## Support 
-
-If you like what im doing, you can send me some money for pepsi(i dont drink alcohol).
-https://www.paypal.me/creotiv
-
